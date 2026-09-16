@@ -1,5 +1,7 @@
 # SWAI Assistant — Technical Showcase
 
+🌐 [Português](./README.pt.md) · **English** · [Español](./README.es.md)
+
 > ⚠️ **This repository is a public technical showcase.** The full source code is maintained in a private repository for proprietary reasons. This repo documents the architecture, engineering decisions, and stack used in the project.
 
 [![License](https://img.shields.io/badge/license-Proprietary-red.svg)]()
